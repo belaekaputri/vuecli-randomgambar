@@ -7,6 +7,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
+cd nama_folder_project
 npm run serve
 ```
 
