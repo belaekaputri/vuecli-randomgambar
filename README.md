@@ -1,4 +1,4 @@
-# project vue-cli menampilkan random gambar pantai
+# project basic vue-cli menampilkan random gambar pantai
 [(Baledemy Tutorial Vue-CLI Indonesia)](https://youtu.be/SoN2ZnEsmCQ) 
 ![projectbasic vue cli](https://user-images.githubusercontent.com/50755376/167278959-c504e353-2d99-4696-b25d-6d1fed9c159d.png)
 ![projectbasic detail](https://user-images.githubusercontent.com/50755376/167278965-efa273ae-7dc7-401a-8703-425601b44f49.png)
