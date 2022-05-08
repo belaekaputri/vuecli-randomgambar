@@ -1,4 +1,4 @@
-# projectbasic
+# project vue-cli menampilkan random gambar pantai
 
 ## Project setup
 ```
